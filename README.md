@@ -1,93 +1,82 @@
-<!-- Encabezado animado con Pixel Art -->
+<!-- ANIMACIÓN DE NOMBRE -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=500&lines=¡Hola%2C+soy+Nicolás+👋!;Apasionado+por+la+tecnología+💻;Estudiante+de+Sistemas+%F0%9F%93%9D️;Explorador+de+ideas+y+proyectos+%F0%9F%9A%80" />
+</h1>
+
 <p align="center">
-  <img src="https://i.imgur.com/6WlGZkU.gif" width="300" alt="Hola en pixel art" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:92fe9d&height=6&section=header"/>
 </p>
 
-<h1 align="center">¡Hola, soy Nicolás! 👾</h1>
-<h3 align="center">🧑‍💻 Explorador de sistemas, código y creatividad</h3>
-
+<!-- GIF DE ENTRADA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
----
-
-### 🧠 Sobre mí
-
-> Soy **Nicolás Daniel Taritolay** 🇦🇷 — Estudiante de **Licenciatura en Sistemas** en la UNJu.  
-> Me apasionan los sistemas, el desarrollo de software y todo lo que implique **resolver problemas con creatividad**.  
-> Estoy en constante aprendizaje y me encanta compartir lo que sé 🧡
-
-<p align="center">
-  <img src="https://i.imgur.com/qiwYc6r.gif" width="200" alt="Pixel art coder" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-### 🎮 Mis Herramientas Tech en Pixel Mode
+### 🧠 Un poco sobre mí
 
-<p align="center">
-  <img src="https://i.imgur.com/WzUO9QD.png" height="40" alt="Python badge"/>
-  <img src="https://i.imgur.com/jx9xG3t.png" height="40" alt="Java badge"/>
-  <img src="https://i.imgur.com/6kG5qwN.png" height="40" alt="C++ badge"/>
-  <img src="https://i.imgur.com/fzZz5x0.png" height="40" alt="Git badge"/>
-  <img src="https://i.imgur.com/lT2r9cI.png" height="40" alt="RapidMiner badge"/>
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/qYgaBNc.gif" height="150" alt="Terminal pixel art"/>
-</p>
+💬 Me llamo **Nicolás Daniel Taritolay**, pero me dicen Nico.  
+📚 Estudio **Licenciatura en Sistemas** en la UNJu.  
+🚀 Me encanta crear, aprender, equivocarme y volver a intentar.  
+🌱 Siempre con ganas de sumar más habilidades (¡y compartirlas!).
 
 ---
 
-### ⚡ Stats en Modo Retro
+### 🎯 Skills Técnicas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danico19827&show_icons=true&theme=gruvbox&icon_color=F58CBA&title_color=FFD369&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danico19827&layout=compact&theme=gruvbox&hide_border=true" width="47%" />
-</p>
+<div align="center">
 
----
+| Lenguajes        | Bases de datos      | Web & UI        | Herramientas |
+|------------------|---------------------|-----------------|--------------|
+| ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-333?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![RapidMiner](https://img.shields.io/badge/-RapidMiner-F08705?style=for-the-badge&logo=data&logoColor=white) |
 
-### 🧩 ¿Qué me mueve?
-
-🧠 Resolver problemas como puzzles  
-🔐 Investigar sobre **seguridad informática** y **IA**  
-🎧 Escuchar música mientras programo  
-📚 Leer sobre liderazgo y desarrollo personal  
-📸 Hacer fotos de paisajes  
-🎮 Jugar y analizar videojuegos  
-
-<p align="center">
-  <img src="https://i.imgur.com/pTeqWcp.gif" height="120" />
-</p>
+</div>
 
 ---
 
-### 📦 Mis poderes blandos
+### 🔥 Mis stats en GitHub
 
-🧭 Liderazgo con conciencia  
-🗣️ Buena comunicación  
-🤝 Trabajo en equipo  
-🧘 Inteligencia emocional  
-🧩 Adaptabilidad y reflexión  
-🧰 Organización con estrategia
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danico19827&show_icons=true&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danico19827&theme=radical&hide_border=true" width="45%"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danico19827&layout=compact&theme=radical&hide_border=true" width="50%" />
+</div>
+
+---
+
+### 💡 Me interesan...
+
+- 🤖 IA, machine learning y ciberseguridad
+- 🧪 Ciencia de datos y automatización
+- 📈 Diseño y modelado de sistemas
+- 🧠 Temas de liderazgo, reflexión y pensamiento crítico
+- 🌄 Naturaleza, música y fotografía de paisajes
+
+---
+
+### ⚡ Un bonus visual: mis vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" />
+</p>
 
 ---
 
 ### 📫 Contactame
 
 <p align="center">
-  <a href="mailto:nicco19822@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Danico19827"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- Si tenés LinkedIn -->
-  <!-- <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <a href="mailto:nicco19822@gmail.com"><img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Danico19827"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Agregá tu LinkedIn si querés -->
 </p>
 
 ---
 
-> 🎙️ _"Sigo aprendiendo, sigo creciendo. Mi meta no es solo saber más, sino ser mejor cada día."_ — Nico 🌱
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,100:92fe9d&height=120&section=footer"/>
+</p>
