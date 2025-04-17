@@ -1,79 +1,93 @@
-<!-- Encabezado con GIF -->
-<h1 align="center">¡Hola, soy Nicolás 👋!</h1>
-<p align="center">💻 Estudiante de Sistemas · 🌱 Explorador de ideas · 🎮 Amante de la tecnología</p>
+<!-- Encabezado animado con Pixel Art -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+  <img src="https://i.imgur.com/6WlGZkU.gif" width="300" alt="Hola en pixel art" />
+</p>
+
+<h1 align="center">¡Hola, soy Nicolás! 👾</h1>
+<h3 align="center">🧑‍💻 Explorador de sistemas, código y creatividad</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
 ---
 
-### 🤓 Sobre mí
+### 🧠 Sobre mí
 
-Me llamo **Nicolás Daniel Taritolay**, soy de Argentina 🇦🇷 y estoy cursando el 4° año de la **Licenciatura en Sistemas** en la UNJu.  
-Me encanta el mundo tech, aprender todo lo que pueda, y aplicar lo que sé en cosas reales. Siempre busco crecer y mantener los pies en la tierra, pero la cabeza en las nubes 🚀
-
----
-
-### ⚡ Lo que sé hacer
-
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![RapidMiner](https://img.shields.io/badge/RapidMiner-F08705?style=for-the-badge&logo=data&logoColor=white)
-
-</div>
-
----
-
-### 🌟 Habilidades que me definen
-
-🧠 Análisis de sistemas  
-💬 Comunicación efectiva  
-🛠️ Resolución de problemas  
-🤝 Trabajo en equipo y liderazgo  
-📊 Organización y planificación  
-🎯 Enfoque estratégico  
-🧘 Empatía e inteligencia emocional
-
----
-
-### 🧭 Cosas que me encantan
-
-- Aprender cosas nuevas todo el tiempo
-- Meterme de lleno en temas como IA, machine learning y ciberseguridad 🔐
-- Leer sobre liderazgo y desarrollo personal 📚
-- Jugar videojuegos y analizar cómo están hechos 🎮
-- Escuchar música y sacar fotos de paisajes 🎶🌄
-
----
-
-### 📈 Un vistazo rápido a mi GitHub
+> Soy **Nicolás Daniel Taritolay** 🇦🇷 — Estudiante de **Licenciatura en Sistemas** en la UNJu.  
+> Me apasionan los sistemas, el desarrollo de software y todo lo que implique **resolver problemas con creatividad**.  
+> Estoy en constante aprendizaje y me encanta compartir lo que sé 🧡
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danico19827&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danico19827&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://i.imgur.com/qiwYc6r.gif" width="200" alt="Pixel art coder" />
 </p>
 
 ---
 
-### 📬 ¿Charlamos?
+### 🎮 Mis Herramientas Tech en Pixel Mode
 
 <p align="center">
-  <a href="mailto:nicco19822@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Danico19827"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://i.imgur.com/WzUO9QD.png" height="40" alt="Python badge"/>
+  <img src="https://i.imgur.com/jx9xG3t.png" height="40" alt="Java badge"/>
+  <img src="https://i.imgur.com/6kG5qwN.png" height="40" alt="C++ badge"/>
+  <img src="https://i.imgur.com/fzZz5x0.png" height="40" alt="Git badge"/>
+  <img src="https://i.imgur.com/lT2r9cI.png" height="40" alt="RapidMiner badge"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/qYgaBNc.gif" height="150" alt="Terminal pixel art"/>
 </p>
 
 ---
 
-> _“El conocimiento es poder, pero la humildad lo equilibra todo.”_
+### ⚡ Stats en Modo Retro
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764BA2,100:667EEA&height=100&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Danico19827&show_icons=true&theme=gruvbox&icon_color=F58CBA&title_color=FFD369&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danico19827&layout=compact&theme=gruvbox&hide_border=true" width="47%" />
 </p>
+
+---
+
+### 🧩 ¿Qué me mueve?
+
+🧠 Resolver problemas como puzzles  
+🔐 Investigar sobre **seguridad informática** y **IA**  
+🎧 Escuchar música mientras programo  
+📚 Leer sobre liderazgo y desarrollo personal  
+📸 Hacer fotos de paisajes  
+🎮 Jugar y analizar videojuegos  
+
+<p align="center">
+  <img src="https://i.imgur.com/pTeqWcp.gif" height="120" />
+</p>
+
+---
+
+### 📦 Mis poderes blandos
+
+🧭 Liderazgo con conciencia  
+🗣️ Buena comunicación  
+🤝 Trabajo en equipo  
+🧘 Inteligencia emocional  
+🧩 Adaptabilidad y reflexión  
+🧰 Organización con estrategia
+
+---
+
+### 📫 Contactame
+
+<p align="center">
+  <a href="mailto:nicco19822@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Danico19827"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Si tenés LinkedIn -->
+  <!-- <a href="https://www.linkedin.com/in/tu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+---
+
+> 🎙️ _"Sigo aprendiendo, sigo creciendo. Mi meta no es solo saber más, sino ser mejor cada día."_ — Nico 🌱
