@@ -57,16 +57,6 @@
 
 ---
 
-### ⚡ Un bonus visual: mis vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="180" />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="180" />
-</p>
-
----
-
 ### 📫 Contactame
 
 <p align="center">
